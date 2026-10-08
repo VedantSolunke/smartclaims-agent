@@ -36,7 +36,9 @@ with:
 
 ## Video Demo
 
-<video src="diagram/Demo-compressed.mp4" width="100%" controls></video>
+<!-- <video src="diagram/Demo-compressed.mp4" width="100%" controls></video> -->
+https://github.com/user-attachments/assets/b2809fc4-8615-456a-a951-87b6dd56c5e4
+
 
 ## Key Capabilities
 
