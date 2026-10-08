@@ -36,7 +36,7 @@ with:
 
 ## Video Demo
 
-<video src="diagram/Demo.mp4" width="100%" controls></video>
+<video src="diagram/Demo-compressed.mp4" width="100%" controls></video>
 
 ## Key Capabilities
 
