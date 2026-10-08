@@ -34,6 +34,10 @@ with:
 > demonstration/application. Its outputs should be reviewed by qualified
 > insurance professionals before being used for real claims decisions.
 
+## Video Demo
+
+<video src="diagram/Demo.mp4" width="100%" controls></video>
+
 ## Key Capabilities
 
 ---
